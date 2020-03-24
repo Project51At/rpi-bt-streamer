@@ -11,6 +11,7 @@ A simple Bluetooth-Audio receiver that forward its content via iceCast2
 
 
 ## References
-
-- [BlueALSA: Bluetooth Audio ALSA Backend](https://github.com/Arkq/bluez-alsa)
 - [Raspberry Pi Audio Receiver](https://github.com/nicokaiser/rpi-audio-receiver/blob/master)
+- [BlueALSA: Bluetooth Audio ALSA Backend](https://github.com/Arkq/bluez-alsa)
+- [ffmpeg](https://www.ffmpeg.org/)
+- [icecast](https://icecast.org/)
