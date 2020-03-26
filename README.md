@@ -18,8 +18,10 @@ The installation script asks what to do
 ### Bluetooth
 The setup and management of the Bluetooth connection have been taken over from "rpi-audio-receiver" project (nicokaiser).
     
-## Disclaimer
+## ToDo
+- Decrease audio delay (currently 6 to 12 sek)
 
+## Disclaimer
 
 ## References
 - [Raspberry Pi Audio Receiver](https://github.com/nicokaiser/rpi-audio-receiver)
