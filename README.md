@@ -14,6 +14,9 @@ The installation script asks what to do
 
     cd rpi-bt-streamer-master
     ./install.sh
+
+### Bluetooth
+The setup and management of the Bluetooth connection have been taken over from "rpi-audio-receiver" project (nicokaiser).
     
 ## Disclaimer
 
