@@ -9,11 +9,12 @@ A simple Bluetooth-Audio receiver that forward its content via iceCast2
 The installation script asks what to do
 
     wget -q https://github.com/Project51At/rpi-bt-streamer/archive/master.zip
-    unzip rpi-bt-streamer-master.zip
-    rm rpi-bt-streamer-master.zip
+    unzip ./master.zip
+    rm ./master.zip
 
     cd rpi-bt-streamer-master
-    ./install.sh
+    sudo chmod 774 ./install.sh
+    sudo ./install.sh
 
 ### Bluetooth
 The setup and management of the Bluetooth connection have been taken over from "rpi-audio-receiver" project (nicokaiser).
