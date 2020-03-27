@@ -36,7 +36,7 @@
     apt-get install ffmpeg -y
     apt-get install icecast2 -y
 
-	systemctl enable icecast2
+    systemctl enable icecast2
 
 ###############################################################################
     echo "rpi-bt-streamer -> Load modules at startup"
