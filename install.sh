@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash
 
 ###############################################################################
     if [[ $(id -u) -ne 0 ]] ; then echo "rpi-bt-streamer -> Please run as root" ; exit 1 ; fi
