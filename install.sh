@@ -209,6 +209,8 @@ EOF
     sed -i "s/<source-password>hackme</<source-password>$IceCastSourcePassword</g" /etc/icecast2/icecast.xml
     sed -i "s/<admin-password>hackme</<admin-password>$IceCastAdminPassword</g" /etc/icecast2/icecast.xml
     sed -i "s/<relay-password>hackme</<relay-password>$IceCastRelayPassword</g" /etc/icecast2/icecast.xml
+    
+    sed -i "s/<burst-size>65535</<burst-size>128</g" /etc/icecast2/icecast.xml
 
 ###############################################################################
     echo "rpi-bt-streamer -> bluetooth-udev: Change script"
