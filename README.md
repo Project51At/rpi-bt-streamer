@@ -2,7 +2,7 @@
 A simple Bluetooth-Audio receiver that forward its content via iceCast2 
 
 ## Requirements
- - Raspberry Pi with Bluetooth support (tested with Raspberry Pi 2 and USB dongle)
+ - Raspberry Pi with Bluetooth support (tested with Raspberry Pi 2 and Plugable USB Bluetooth Adapter)
  - Raspbian Buster Lite (tested with 2020-02-13)
  
 ## Installation
@@ -20,7 +20,7 @@ The installation script asks what to do
 The setup and management of the Bluetooth connection have been taken over from "rpi-audio-receiver" project (nicokaiser).
     
 ## ToDo
-- Decrease audio delay (currently 6 to 12 sek)
+- ?
 
 ## Disclaimer
 
