@@ -225,7 +225,7 @@ if [ "$action" = "add" ]; then
     bluetoothctl discoverable off
 
     systemctl start ffmpeg-icecast2
-    amixer  sset PCM,0 90%
+    amixer sset PCM,0 90
 
     # disconnect wifi to prevent dropouts
     #ifconfig wlan0 down &
