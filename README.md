@@ -20,7 +20,7 @@ The installation script asks what to do
 The setup and management of the Bluetooth connection have been taken over from "rpi-audio-receiver" project (nicokaiser).
     
 ## ToDo
-- ?
+- Increase the stream volume.
 
 ## Disclaimer
 
