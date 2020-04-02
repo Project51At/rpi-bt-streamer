@@ -1,4 +1,6 @@
 # Raspberry Pi Bluetooth-Audio Streamer
+![Raspberry Pi Bluetooth-Audio Streamer](http://project51.at/media/k2/items/cache/3707d8f2be163bd14c78cf07586f13bb_L.jpg)
+
 A simple Bluetooth-Audio receiver that forward its content via iceCast2 
 
 ## Requirements
@@ -20,7 +22,7 @@ The installation script asks what to do
 The setup and management of the Bluetooth connection have been taken over from "rpi-audio-receiver" project (nicokaiser).
     
 ## ToDo
-- Increase the stream volume.
+- ?
 
 ## Disclaimer
 
