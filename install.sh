@@ -140,6 +140,7 @@ EOF
             -ac 2 \\
             -content_type audio/mpeg \\
             -acodec libmp3lame \\
+            -af volume=5.0 \\
             -f mp3 \\
             -ice_genre "${IceCastGenre}" \\
             -ice_name "${IceCastName}" \\
